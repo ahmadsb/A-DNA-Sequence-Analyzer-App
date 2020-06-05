@@ -3,6 +3,7 @@
 # Goal
 The goal of the system is to load, analyze, manipulate and save DNA sequences.
 
+
 # Description
 DNA sequences are composed of four types of nucleotides; the nucleotides are marked A (Adenine), G (Guanine), C (Cytosine) and T (Thymine). A full DNA molecule usually consists of two strands, connected to each other in base-pair connections: As with Ts, and Cs with Gs. Three successive nucleotides generate a codon, which might be chemically "read" in various ways.
 
